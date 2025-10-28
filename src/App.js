@@ -46,13 +46,14 @@ alert('Upload failed');
 
 
 return (
+    
 <div className="app">
 <div className="header">
 <h1>Video Mini-Streaming </h1>
 <div className="small">mock YouTube-style app — demo only</div>
 </div>
 
-
+ 
 <div className="grid">
 <div className="card">
 {current ? (
